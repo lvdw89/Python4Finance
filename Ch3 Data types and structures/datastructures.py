@@ -62,4 +62,4 @@ bla = list(map(lambda x: x**2, range(10)))
 print(bla)
 
 d = set(['u', 'd', 'ud', 'du', 'd', 'du'])
-print(d)
+print(d)  # set only contains unique occurences
